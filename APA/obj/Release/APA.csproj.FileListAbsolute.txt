@@ -1,0 +1,9 @@
+\\fs01\Schulverwaltung\APA\APA.exe.config
+\\fs01\Schulverwaltung\APA\APA.exe
+\\fs01\Schulverwaltung\APA\APA.pdb
+U:\Source\Repos\APA\APA\obj\Release\APA.exe
+U:\Source\Repos\APA\APA\obj\Release\APA.pdb
+U:\Source\Repos\APA\APA\obj\Release\APA.Properties.Resources.resources
+U:\Source\Repos\APA\APA\obj\Release\APA.csproj.GenerateResource.cache
+U:\Source\Repos\APA\APA\obj\Release\APA.csproj.CoreCompileInputs.cache
+U:\Source\Repos\APA\APA\obj\Release\APA.csproj.CopyComplete

@@ -1,2 +1,7 @@
 # APA
-APA erzeugt die APA-Listen für die Zulassungskonferenzen
+
+## generiert die APA-Listen für die FHR-Zulassungskonferenzen als Exceldatei.
+
+### Voraussetzungen
+* Webuntis
+* Atlantis
