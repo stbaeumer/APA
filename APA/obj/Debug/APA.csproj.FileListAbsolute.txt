@@ -46,7 +46,6 @@ C:\Users\bm\Repos\APA\APA\bin\Debug\PdfSharp.Charting.xml
 C:\Users\bm\Repos\APA\APA\bin\Debug\de\PdfSharp.resources.dll
 C:\Users\bm\Repos\APA\APA\bin\Debug\de\PdfSharp.Charting.resources.dll
 C:\Users\bm\Repos\APA\APA\obj\Debug\APA.csproj.AssemblyReference.cache
-C:\Users\bm\Repos\APA\APA\obj\Debug\APA.csproj.SuggestedBindingRedirects.cache
 C:\Users\bm\Repos\APA\APA\obj\Debug\APA.Properties.Resources.resources
 C:\Users\bm\Repos\APA\APA\obj\Debug\APA.csproj.GenerateResource.cache
 C:\Users\bm\Repos\APA\APA\obj\Debug\APA.csproj.CoreCompileInputs.cache

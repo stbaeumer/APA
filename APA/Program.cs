@@ -15,7 +15,7 @@ namespace APA
         {
             System.Net.ServicePointManager.ServerCertificateValidationCallback = ((sender, certificate, chain, sslPolicyErrors) => true);
 
-            string ConnectionStringAtlantis = @"Dsn=Atlantis9;uid=";
+            string ConnectionStringAtlantis = @"Dsn=Atlantis17u;uid=";
             string User = System.Security.Principal.WindowsIdentity.GetCurrent().Name.ToUpper().Split('\\')[1];
             string Zeitstempel = DateTime.Now.ToString("yyMMdd-HHmmss");
             List<string> AktSj = new List<string>

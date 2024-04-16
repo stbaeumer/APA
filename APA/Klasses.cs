@@ -112,6 +112,7 @@ WHERE (((Class.SCHOOL_ID)=177659) AND ((Class.TERM_ID)=" + periodes.Count + ") A
 
             Application application = new Application();
             Workbook workbook = application.Workbooks.Open(Global.Ziel);
+            
             try
             {
                 foreach (var klasse in this)
